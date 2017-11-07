@@ -10,7 +10,9 @@
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
+      <mapping pattern="myDB" type="DBN-SQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping ext="sqlite" type="Native" />
     </extensionMap>
   </component>
 </application>
